@@ -1,4 +1,5 @@
 # Amazon Sales Data Analysis Dashboard
+<img width="1316" height="459" alt="image" src="https://github.com/user-attachments/assets/a6c44466-6ef8-4f64-9431-93da443801db" />
 
 ## 📊 Project Overview
 Is project mein Amazon ke sales data ka detail analysis kiya gaya hai. Isme **multiple data sheets** ko aapas mein connect karke ek interactive Excel dashboard taiyar kiya gaya hai, jo business ki performance aur delivery efficiency ko track karta hai.
